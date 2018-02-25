@@ -204,7 +204,7 @@ section#body {
 /** content+sidebar styles **/
 section#content {
 	width:580px;
-	padding: 10px;
+	padding: 200px;
 	background-color: #fff;
 }
 .column-left {
