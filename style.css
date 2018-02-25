@@ -204,7 +204,7 @@ section#body {
 /** content+sidebar styles **/
 section#content {
 	width:580px;
-	padding: 200px;
+	padding: 20px;
 	background-color: #fff;
 }
 .column-left {
@@ -244,7 +244,7 @@ nav#mainnav li a:hover {
 nav#mainnav li a {
 	color: #ccc;
 	display: block;
-	padding: 22px 17px;
+	padding: 22px 170px;
 	text-align: center;
 	text-transform: uppercase;
 	font-weight: bold;
