@@ -353,3 +353,29 @@ footer p a:hover { color:#333; border-bottom-color: #333; }
 
 
 }
+
+
+
+
+.profile-area {
+  width: 25%;
+  float: left;
+  text-align: right; }
+
+.left .profile-area {
+  text-align: left;
+  float: right; }
+
+.profile-area img {
+  max-width: 200px;
+  height: auto;
+  border-radius: 100px; }
+
+
+
+    .profile-area {
+    float: none !important;
+    width: auto !important; }
+
+  .profile-area img {
+    max-width: 100px; }
