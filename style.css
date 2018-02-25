@@ -373,11 +373,7 @@ footer p a:hover { color:#333; border-bottom-color: #333; }
   padding-right: 5%;
   border-right: 1px solid #ebebeb; }
 
-a, .page-link {
-  color: #f57fa0;
-  font-weight: bold; }
-  a:hover, a:focus, a:active, .page-link:hover, .page-link:focus, .page-link:active {
-    color: #f9afc3; }
+
 
 fieldset {
   margin-bottom: 30px;
@@ -390,18 +386,9 @@ fieldset legend {
   font-size: 1.1rem;
   font-weight: bold; }
 
-table th {
-  background-color: #f0386b;
-  color: #fff;
-  border-color: #cc0f44 !important;
-  border-bottom: 1px solid #cc0f44; }
 
-blockquote {
-  display: block;
-  border-left: 5px solid white;
-  padding: 0.5rem;
-  color: #999;
-  margin-bottom: 30px; }
+
+
 
 p {
   margin: 0 0 30px; }
