@@ -362,10 +362,6 @@ footer p a:hover { color:#333; border-bottom-color: #333; }
   float: left;
   text-align: right; }
 
-.left .profile-area {
-  text-align: left;
-  float: right; }
-
 .profile-area img {
   max-width: 200px;
   height: auto;
