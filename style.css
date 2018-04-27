@@ -367,5 +367,12 @@ footer p a:hover { color:#333; border-bottom-color: #333; }
     vertical-align: middle;
     width: 240px;
     height: 200px;
-    border-radius: 95%;
+    border-radius: 99%;
+}
+
+.avatar2 {
+    vertical-align: middle;
+    width: 240px;
+    height: 240px;
+    border-radius: 100%;
 }
