@@ -1,0 +1,28 @@
+Provider: Silverchair
+Database: AmericanSocietyofMechanicalEngineersDigitalCollection
+Content: text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - Salvi, Swapnil S.
+AU  - Bhalla, Vishal
+AU  - Taylor, Robert A.
+AU  - Khullar, Vikrant
+AU  - Otanicar, Todd P.
+AU  - Phelan, Patrick E.
+AU  - Tyagi, Himanshu
+T1  - Technological Advances to Maximize Solar Collector Energy Output: A Review
+PY  - 2018
+Y1  - 2018/10/01/
+DO  - 10.1115/1.4041219
+M1  - 040802
+JO  - Journal of Electronic Packaging
+JA  - J. Electron. Packag
+VL  - 140
+IS  - 4
+SN  - 1043-7398
+AB  - Since it is highly correlated with quality of life, the demand for energy continues to increase as the global population grows and modernizes. Although there has been significant impetus to move away from reliance on fossil fuels for decades (e.g., localized pollution and climate change), solar energy has only recently taken on a non-negligible role in the global production of energy. The photovoltaics (PV) industry has many of the same electronics packaging challenges as the semiconductor industry, because in both cases, high temperatures lead to lowering of the system performance. Also, there are several technologies, which can harvest solar energy solely as heat. Advances in these technologies (e.g., solar selective coatings, design optimizations, and improvement in materials) have also kept the solar thermal market growing in recent years (albeit not nearly as rapidly as PV). This paper presents a review on how heat is managed in solar thermal and PV systems, with a focus on the recent developments for technologies, which can harvest heat to meet global energy demands. It also briefs about possible ways to resolve the challenges or difficulties existing in solar collectors like solar selectivity, thermal stability, etc. As a key enabling technology for reducing radiation heat losses in these devices, the focus of this paper is to discuss the ongoing advances in solar selective coatings and working fluids, which could potentially be used in tandem to filter out or recover the heat that is wasted from PVs. Among the reviewed solar selective coatings, recent advances in selective coating categories like dielectric-metal-dielectric (DMD), multilayered, and cermet-based coatings are considered. In addition, the effects of characteristic changes in glazing, absorber geometry, and solar tracking systems on the performance of solar collectors are also reviewed. A discussion of how these fundamental technological advances could be incorporated with PVs is included as well.
+Y2  - 6/12/2020
+UR  - https://doi.org/10.1115/1.4041219
+ER  - 
+
+
