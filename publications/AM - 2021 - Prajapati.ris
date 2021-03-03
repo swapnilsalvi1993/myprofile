@@ -1,0 +1,23 @@
+TY  - JOUR
+T1  - Improved print quality in fused filament fabrication through localized dispensing of hot air around the deposited filament
+AU  - Prajapati, Hardikkumar
+AU  - Salvi, Swapnil S.
+AU  - Ravoori, Darshan
+AU  - Qasaimeh, Momen
+AU  - Adnan, Ashfaq
+AU  - Jain, Ankur
+JO  - Additive Manufacturing
+VL  - 40
+SP  - 101917
+PY  - 2021
+DA  - 2021/04/01/
+SN  - 2214-8604
+DO  - https://doi.org/10.1016/j.addma.2021.101917
+UR  - https://www.sciencedirect.com/science/article/pii/S2214860421000828
+KW  - Additive manufacturing
+KW  - Polymer extrusion
+KW  - Temperature measurement
+KW  - Infrared thermography
+KW  - Filament adhesion
+AB  - Bonding between polymer filaments deposited during Fused Filament Fabrication (FFF) is a critical process that determines the quality of the printed part. This process is governed by the temperature history of the deposited filament. In general, the longer the filament stays above glass transition temperature, the greater is the quality of bonding. This paper presents a technique to enhance FFF quality by localized dispensing of hot air from nozzles integrated with the main polymer-dispensing nozzle, thereby providing a hot micro-environment around the filament. The temperature field during this process is measured using infrared thermography. It is shown that under the correct process conditions, this approach results in significantly reduced heat transfer from the filament, thereby increasing the cool down time and improving the quality of bonding with the adjacent filaments. The improved thermal history of the filament due to hot air dispensing is shown to translate into increased neck size, leading to 35% increase in thermal conductivity, 19% increase in tensile strength and 145% increase in tensile toughness. Compared to other thermal techniques for improving the FFF process proposed in the past, the present approach provides a highly localized, in situ thermal enhancement of the local environment around the deposited filament, and integrates seamlessly with the filament-dispensing nozzle. It is expected that the technique described here may help improve the quality of FFF process and enable the printing of parts with improved thermal and mechanical properties.
+ER  - 
