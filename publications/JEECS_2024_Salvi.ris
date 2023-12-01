@@ -1,0 +1,29 @@
+Provider: Silverchair
+Database: AmericanSocietyofMechanicalEngineersDigitalCollection
+Content: text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - Salvi, Swapnil S.
+AU  - Surampudi, Bapiraju
+AU  - Swarts, Andre
+AU  - Sarlashkar, Jayant
+AU  - Smith, Ian
+AU  - Alger, Terry
+AU  - Jain, Ankur
+T1  - Experimental and Theoretical Analysis of Immersion Cooling of a Li-Ion Battery Module
+PY  - 2023
+Y1  - 2023/11/30
+DO  - 10.1115/1.4063914
+M1  - 041001
+JO  - Journal of Electrochemical Energy Conversion and Storage
+JA  - J. Electrochem. En. Conv. Stor
+VL  - 21
+IS  - 4
+SN  - 2381-6872
+AB  - Overheating of Li-ion cells and battery packs is an ongoing technological challenge for electrochemical energy conversion and storage, including in electric vehicles. Immersion cooling is a promising thermal management technique to address these challenges. This work presents experimental and theoretical analysis of the thermal and electrochemical impact of immersion cooling of a small module of Li-ion cells. Significant reduction in both surface and core temperature due to immersion cooling is observed, consistent with theoretical and simulation models developed here. However, immersion cooling is also found to result in a small but non-negligible increase in capacity fade of the cells. A number of hypotheses are formed and systematically tested through a comparison of experimental measurements with theoretical modeling and simulations. Electrochemical Impedance Spectroscopy measurements indicate that the accelerated cell aging due to immersion cooling is likely to be due to enhanced lithium plating. Therefore, careful consideration of the impact of immersion cooling on long-term performance may be necessary. The results presented in this work quantify both thermal and electrochemical impacts of a promising thermal management technique for Li-ion cells. These results may be of relevance for design and optimization of electrochemical energy conversion and storage systems.
+Y2  - 11/30/2023
+UR  - https://doi.org/10.1115/1.4063914
+ER  - 
+
+
+
