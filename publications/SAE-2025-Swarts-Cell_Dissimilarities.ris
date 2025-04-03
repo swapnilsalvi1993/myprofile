@@ -1,0 +1,12 @@
+TY  - CPAPER
+AU  - Swarts, Andre
+AU  - Salvi, Swapnil S.
+AU  - Juarez Robles, Daniel
+TI  - Impact of Thermal and Electrical Dissimilarities on Battery Module Aging
+PY  - 2025
+DA  - 2025-04-01
+PB  - SAE International
+AB  - Battery cell aging and loss of capacity are some of the many challenges facing the widespread implementation of electrification in mobility. One of the factors contributing to cell aging is the dissimilarities of individual cells connected in a module. This paper reports the results of several aging experiments using a mini-module consisting of seven 5 Ah 21700 lithium-ion battery cells connected in parallel. The aging cycle comprised a constant current-constant voltage charge cycle at a 0.7C C-rate, followed by a 0.2C constant current discharge, spanning the useful voltage range from minimum to maximum according to the cell manufacturer. Charge and discharge events were separated by one-hour rest periods and were repeated for four weeks. Weekly reference performance tests were executed to measure static capacity, pulse power capability and resistance at different states of charge. All diagnostics were normalized with respect to their starting numbers to achieve a percentage change over time. Both electrical and thermal dissimilarities were considered by initial cell selection or adjusting the thermal boundary conditions, respectively. The latter was achieved by contrasting air cooling with direct liquid immersion cooling which prevented temperature spikes and ensured more uniform temperature distribution between the cells. For well-clustered cells, the use of immersion cooling reduced the capacity fade noticeably when compared to air cooling. However, when cells are not well clustered, the impact of electrical dissimilarities overshadowed the thermal benefits. Poor cell clustering resulted in a lower discharge resistance increase which itself reflected as smaller changes of the pulse power fade. The results highlighted the importance of cell selection and clustering during research and when building packs for final application and reinforced the benefits of good thermal management. The work did not fully explore the benefits of immersion cooling due to the moderate C-rates used.
+DO  - https://doi.org/10.4271/2025-01-8173
+UI  - 2025-01-8173
+ER  - 
